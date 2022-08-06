@@ -38,7 +38,7 @@ button {
     margin-right: 10px;
     border-radius: 10px;
 }
-
+/* styles the flip, roll and clear buttons */
 #flip,
 #roll {
     background: linear-gradient(to bottom left, lightblue, white);
